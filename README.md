@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![dani1995ar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani1995ar&count_private=true&show_icons=true&theme=gradient&hide_title=true&hide_border=true)
+![dani1995ar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani1995ar&count_private=true&show_icons=true&theme=gradient&hide_title=true)
 [![dani1995ar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani1995ar&theme=gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
