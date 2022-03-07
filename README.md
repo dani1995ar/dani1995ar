@@ -12,9 +12,9 @@
 
 #### Hello world, my name is Daniel Agudelo and I'm a passionate self-taught developer who loves learning new things and enjoys solving problems.
 
-#### I am a web 3.0 enthusiast, enjoy building stuff, collaborating with people from across the globe and a good cup of coffe.
+#### I am a web 3.0 enthusiast, enjoy building stuff, collaborating with people from across the globe, and a good cup of coffee.
 
-### Langugages and Tools(familiar with but not limited to):
+### Langugages and Tools (familiar with but not limited to):
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
@@ -35,3 +35,9 @@
 - [Microsoft Certified Azure Fundamentals](https://github.com/dani1995ar/dani1995ar/blob/main/Microsoft_Certified_Professional_Certificate_0.pdf)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/dbae1b82-fee6-48f5-b7df-94e0107030c0/public_url)
 - [Introducción a la Nube](https://platzi.com/p/DanielAgudelo/curso/2200-course/diploma/detalle/)
+
+
+### Feel free to Drop a '👋' on any of my socials, if you wanna join for a quick chat ⏱, tell me about a new and interesting project , or discuss business...💼
+### I would be thrilled to cooperate. 🤝
+
+#### Looking to find the easiest way(s) to reach out to me? 🤗 [Check Here 🔗](https://www.linkedin.com/in/daniel-agudelo-ramirez/)
