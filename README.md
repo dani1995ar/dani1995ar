@@ -4,8 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=dani1995ar&color=blue&style=plastic&label=VIEWS)
 [![Linkedin: Daniel Agudelo R.](https://img.shields.io/badge/follow-Daniel%20Agudelo%20R.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-agudelo-ramirez/)](https://www.linkedin.com/in/daniel-agudelo-ramirez/)
---- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1995ar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1995ar&layout=compact&theme=buefy&hide_border=true" /></a> 
+| ------------- |
 
 ### Software Developer, problem solver, with over 6 years of experience in the I.T industry providing solutions and value to clients and organizations.
 
